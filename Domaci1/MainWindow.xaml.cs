@@ -49,6 +49,7 @@ namespace Domaci1
                 Height = 80,
                 Fill = Brushes.Orange,
                 Margin = new Thickness(5)
+                
             });
         }
 
